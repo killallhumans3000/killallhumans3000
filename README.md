@@ -3,7 +3,7 @@
 **“Bite my shiny metal repo.”**  
 I bend code until CI begs for mercy.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=killallhumans3000&style=flat-square&base=1000)](https://github.com/killallhumans3000)
+[![Profile Views](https://komarev.com/ghpvc/?username=killallhumans3000&style=flat-square&base=1000&color=ff69b4)](https://github.com/killallhumans3000)
 ![Built in Tijuana](https://img.shields.io/badge/built%20in-Tijuana-8A2BE2?style=flat-square)
 ![Warranty](https://img.shields.io/badge/warranty-void%20since%202997-black?style=flat-square)
 
