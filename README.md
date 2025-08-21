@@ -1,4 +1,4 @@
-# 👋 Hey, I'm killallhumans3000
+# 👋 Hey, I'm Chrome Lothario
 
 **“Bite my shiny metal repo.”**  
 I bend code until CI begs for mercy.
